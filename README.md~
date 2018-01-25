@@ -18,7 +18,7 @@ Just try with ease.
 
 ## 训练
 
-默认按train.csv样本顺序取前80%作为训练集
+默认按train.csv样本顺序取前80%作为验证集
 
 ### AlexNet
 
